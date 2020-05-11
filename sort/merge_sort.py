@@ -4,7 +4,7 @@
 
 import math
 
-from common.helpers import default_compare
+from sort.common.helpers import default_compare
 
 def sort(array, compare=default_compare):
   if len(array) <= 1:

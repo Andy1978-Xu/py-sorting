@@ -5,7 +5,7 @@
 import math
 import random
 
-from common.helpers import default_compare
+from sort.common.helpers import default_compare
 
 def sort(array, compare=default_compare):
   return inner_sort(array, 0, len(array) - 1, compare)
