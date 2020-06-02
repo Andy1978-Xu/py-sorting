@@ -15,3 +15,7 @@ MIT © [Daniel Imms](http://www.growingwiththeweb.com)
 ## See also
 
 * [js-sorting](https://github.com/gwtw/js-sorting)
+
+## how to run pytest
+
+
